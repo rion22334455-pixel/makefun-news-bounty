@@ -1,0 +1,10 @@
+/cli/
+/harness/
+/starter/
+/out/
+/RULES.txt
+/competition.yaml
+/kit.json
+/transcripts.tar.gz
+/wallet.json
+/.env
